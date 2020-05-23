@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lRvW8F2vQigbzdBU0GU_IWrES596vVS9#scrollTo=CzcL5TWum5QY) License Plate Detector using Attention_OCR
+
 # Number Plate Detection using Attention OCR
 
 ## Problem
