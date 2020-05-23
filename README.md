@@ -42,7 +42,8 @@ No need to run this script as we already have cropped and stored the images in t
 
 You can follow the instructions below, or you can just clone from here
 
-```https://github.com/udaylunawat/models
+```
+git clone https://github.com/udaylunawat/models
 ```
 
 Having stored our cropped images of equal sizes in a different directory, we can begin using those images to generate tfrecords that we will use to train our dataset. Here's a script to generate tfrecords. Note the max_width and max_height variables so we can specify the size of our crops to our tfrecord generation script. These tfrecords along with the label mapping have to be stored in the tensorflow object detection API inside the following directory -
